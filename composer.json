@@ -1,0 +1,15 @@
+{
+    "name": "lucky/address1",
+    "autoload": {
+        "psr-4": {
+            "Lucky\\Address1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santosh kumar",
+            "email": "lucky1999mfp@gmail.com"
+        }
+    ],
+    "require": {}
+}
