@@ -1,5 +1,5 @@
 {
-    "name": "lucky/address1",
+    "name": "luckyprajapati/address1",
     "autoload": {
         "psr-4": {
             "Lucky\\Address1\\": "src/"
