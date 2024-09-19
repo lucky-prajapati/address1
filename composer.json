@@ -11,5 +11,7 @@
             "email": "lucky1999mfp@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
+
 }
