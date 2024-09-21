@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucky\Address1\App\Http\Controllers;
+namespace Lucky\Address1\Http\Controllers;
 
 class AddressControllers
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucky\Address1\App\Models;
+namespace Lucky\Address1\Models;
 
 class Address {
 

@@ -2,7 +2,7 @@
     "name": "luckyprajapati/address1",
     "autoload": {
         "psr-4": {
-            "Lucky\\Address1\\": "src/"
+            "Lucky\\Address1\\": "src/app"
         }
     },
     "authors": [
