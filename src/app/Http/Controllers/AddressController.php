@@ -2,7 +2,7 @@
 
 namespace Lucky\Address1\Http\Controllers;
 
-class AddressControllers
+class AddressController
 {
     public function index()
     {
